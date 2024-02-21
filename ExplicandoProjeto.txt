@@ -1,0 +1,1 @@
+O projeto JDBC tem como objetivo fazer todas as operações do CRUD em relação a tabela Departamento.
